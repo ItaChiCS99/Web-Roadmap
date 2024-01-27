@@ -20,7 +20,7 @@
     - [ ] Hosting (Github Pages, Netlify)
     - [ ] OOP
     - [ ] Internet Protocols
-
+-------------------------------------------
 ### Second Level (Mid-Level)
 
 - ### Front-End :
@@ -49,7 +49,7 @@
     - [ ] Package Managers (NPM, Yarn)
     - [ ] Version Control (Git)
     - [ ] Data Structure And Algorithms
-
+-------------------------------------------
 ### Third Level (High-Level)
 
 - ### Front-End :
